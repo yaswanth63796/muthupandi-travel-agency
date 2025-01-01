@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    
+ printf("WELCOME!!! BELOW ARE THE LIST OF OUR SERVICES THAT WE PROVIDE!. TAKE A LOOK AT THEM!\n");
+printf("\n\n");
     int rows = 8; 
     int cols = 2;
 
