@@ -15,7 +15,7 @@ printf("\n\n");
         {"Coimbatore", "Mahaballipuram               "},
         {"Coimbatore", "Sabarimalai                  "},
         {"Coimbatore", "Tirupathi                    "},
-        {"Coimbatore", "Vellore Kotai                "},
+        {"Coimbatore", "Vellore Fort                 "},
         
     };
     for (int i = 0; i < cols; i++) {
